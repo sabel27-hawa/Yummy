@@ -22,7 +22,15 @@ a{
 ul li{
     list-style: none;
 }
-.accueil{
+.index{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+.menu{
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+.contact{
     text-decoration: underline;
     text-decoration-color: red;
 }
