@@ -104,7 +104,10 @@ ul li{
     text-decoration-color: red;
 }
 .texte{
+    text-align: justify;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .lieu{
     position: relative;
@@ -124,7 +127,8 @@ ul li{
     justify-content: center;
     align-items: center;
     display: flex;
-    gap: 75px; 
+    gap: 75px;
+    margin-top: 50px; 
 }
 .contactez{
     position: relative;
@@ -132,6 +136,12 @@ ul li{
     justify-content: center;
     text-decoration: underline;
     text-decoration-color: red;
+}
+.Contact1{
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .Menu{
